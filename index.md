@@ -12,6 +12,8 @@ order: 1
 
 <!-- # DS100: Principles & Techniques of Data Science -->
 
+<h1> Checkout the DS100 FA-2017 Website for the latest info </h1>
+
 <div class="container-fluid">
 <div class="row">
 <div markdown="1" class="col-sm-9">
