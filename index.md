@@ -11,7 +11,7 @@ order: 1
 
 <!-- # DS100: Principles & Techniques of Data Science -->
 
-<span style="color:red">The **Fall 2017** website is [here](../fa17)</span>
+<span style="color:red">The  **new Fall 2017** website is [here](../fa17)</span>
 
 <div class="container-fluid">
 <div class="row">
