@@ -2,7 +2,6 @@
 layout: header_page
 title: DS100 Spring 2017
 tagline: Principles and Techniques of Data Science
-group: navigation
 order: 1
 ---
 {% include JB/setup %}
@@ -12,7 +11,7 @@ order: 1
 
 <!-- # DS100: Principles & Techniques of Data Science -->
 
-<h1> Checkout the DS100 FA-2017 Website for the latest info </h1>
+<span style="color:red">The **Fall 2017** website is [here](../fa17)</span>
 
 <div class="container-fluid">
 <div class="row">
